@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular2Revisted", "Angular2Revisted\Angular2Revisted.csproj", "{D45B5A7F-C62E-4DDA-A1E1-A64658556EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeWebAPIService", "EmployeeWebAPIService\EmployeeWebAPIService.csproj", "{B4278EAE-42D2-4BB8-8873-9B1D5A2E2102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45B5A7F-C62E-4DDA-A1E1-A64658556EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45B5A7F-C62E-4DDA-A1E1-A64658556EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45B5A7F-C62E-4DDA-A1E1-A64658556EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45B5A7F-C62E-4DDA-A1E1-A64658556EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4278EAE-42D2-4BB8-8873-9B1D5A2E2102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4278EAE-42D2-4BB8-8873-9B1D5A2E2102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4278EAE-42D2-4BB8-8873-9B1D5A2E2102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4278EAE-42D2-4BB8-8873-9B1D5A2E2102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
